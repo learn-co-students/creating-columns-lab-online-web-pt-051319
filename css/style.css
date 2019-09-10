@@ -16,6 +16,24 @@ body, html {
   margin: 10px auto;
 }
 
+.column{
+  display: inline;
+  float: left; 
+  width: 30%;
+}
+
+.small{
+
+}
+
+.med{
+
+}
+
+.large{
+
+}
+
 h4 {
   width: fit-content;
   display: inline-block;
